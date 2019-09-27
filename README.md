@@ -1,9 +1,11 @@
 # Federated Learning with Raspberry PI (PySyft)
+
+<b> This is Mika's forked repository so it will not be up-to-date and only contain her contribution to the project </b>
+
+
 Scholars from the Secure and Private AI Scholarship Challenge from Facebook and Udacity working together to implement the tutorial from OpenMined: https://blog.openmined.org/federated-learning-of-a-rnn-on-raspberry-pis/
 
 We will set up PySyft on two Raspberry Pis and learn how to train a Recurrent Neural Network on a Raspberry Pi via PySyft.
-
-<b> This is Mika's forked repository so it will not be up-to-date and only contain her contribution to the project </b>
 
 ## Topics
    - PySyft(https://github.com/OpenMined/PySyft)
